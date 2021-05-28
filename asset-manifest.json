@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/iqtest/static/css/main.6c0c5e30.chunk.css",
-    "main.js": "/iqtest/static/js/main.20b5dda6.chunk.js",
-    "main.js.map": "/iqtest/static/js/main.20b5dda6.chunk.js.map",
-    "runtime-main.js": "/iqtest/static/js/runtime-main.9d2f8f29.js",
-    "runtime-main.js.map": "/iqtest/static/js/runtime-main.9d2f8f29.js.map",
-    "static/js/2.46b45888.chunk.js": "/iqtest/static/js/2.46b45888.chunk.js",
-    "static/js/2.46b45888.chunk.js.map": "/iqtest/static/js/2.46b45888.chunk.js.map",
-    "static/js/3.9ceacc2b.chunk.js": "/iqtest/static/js/3.9ceacc2b.chunk.js",
-    "static/js/3.9ceacc2b.chunk.js.map": "/iqtest/static/js/3.9ceacc2b.chunk.js.map",
-    "index.html": "/iqtest/index.html",
-    "static/css/main.6c0c5e30.chunk.css.map": "/iqtest/static/css/main.6c0c5e30.chunk.css.map",
-    "static/js/2.46b45888.chunk.js.LICENSE.txt": "/iqtest/static/js/2.46b45888.chunk.js.LICENSE.txt"
+    "main.css": "https://www.ruvvet.com/iqtest/static/css/main.6c0c5e30.chunk.css",
+    "main.js": "https://www.ruvvet.com/iqtest/static/js/main.cfa16150.chunk.js",
+    "main.js.map": "https://www.ruvvet.com/iqtest/static/js/main.cfa16150.chunk.js.map",
+    "runtime-main.js": "https://www.ruvvet.com/iqtest/static/js/runtime-main.917e40a2.js",
+    "runtime-main.js.map": "https://www.ruvvet.com/iqtest/static/js/runtime-main.917e40a2.js.map",
+    "static/js/2.6fe7f004.chunk.js": "https://www.ruvvet.com/iqtest/static/js/2.6fe7f004.chunk.js",
+    "static/js/2.6fe7f004.chunk.js.map": "https://www.ruvvet.com/iqtest/static/js/2.6fe7f004.chunk.js.map",
+    "static/js/3.e71a1b62.chunk.js": "https://www.ruvvet.com/iqtest/static/js/3.e71a1b62.chunk.js",
+    "static/js/3.e71a1b62.chunk.js.map": "https://www.ruvvet.com/iqtest/static/js/3.e71a1b62.chunk.js.map",
+    "index.html": "https://www.ruvvet.com/iqtest/index.html",
+    "static/css/main.6c0c5e30.chunk.css.map": "https://www.ruvvet.com/iqtest/static/css/main.6c0c5e30.chunk.css.map",
+    "static/js/2.6fe7f004.chunk.js.LICENSE.txt": "https://www.ruvvet.com/iqtest/static/js/2.6fe7f004.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d2f8f29.js",
-    "static/js/2.46b45888.chunk.js",
+    "static/js/runtime-main.917e40a2.js",
+    "static/js/2.6fe7f004.chunk.js",
     "static/css/main.6c0c5e30.chunk.css",
-    "static/js/main.20b5dda6.chunk.js"
+    "static/js/main.cfa16150.chunk.js"
   ]
 }
