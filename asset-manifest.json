@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "https://www.ruvvet.com/iqtest/static/css/main.6c0c5e30.chunk.css",
-    "main.js": "https://www.ruvvet.com/iqtest/static/js/main.cfa16150.chunk.js",
-    "main.js.map": "https://www.ruvvet.com/iqtest/static/js/main.cfa16150.chunk.js.map",
+    "main.js": "https://www.ruvvet.com/iqtest/static/js/main.09451fa3.chunk.js",
+    "main.js.map": "https://www.ruvvet.com/iqtest/static/js/main.09451fa3.chunk.js.map",
     "runtime-main.js": "https://www.ruvvet.com/iqtest/static/js/runtime-main.917e40a2.js",
     "runtime-main.js.map": "https://www.ruvvet.com/iqtest/static/js/runtime-main.917e40a2.js.map",
-    "static/js/2.6fe7f004.chunk.js": "https://www.ruvvet.com/iqtest/static/js/2.6fe7f004.chunk.js",
-    "static/js/2.6fe7f004.chunk.js.map": "https://www.ruvvet.com/iqtest/static/js/2.6fe7f004.chunk.js.map",
+    "static/js/2.2efbb4c0.chunk.js": "https://www.ruvvet.com/iqtest/static/js/2.2efbb4c0.chunk.js",
+    "static/js/2.2efbb4c0.chunk.js.map": "https://www.ruvvet.com/iqtest/static/js/2.2efbb4c0.chunk.js.map",
     "static/js/3.e71a1b62.chunk.js": "https://www.ruvvet.com/iqtest/static/js/3.e71a1b62.chunk.js",
     "static/js/3.e71a1b62.chunk.js.map": "https://www.ruvvet.com/iqtest/static/js/3.e71a1b62.chunk.js.map",
     "index.html": "https://www.ruvvet.com/iqtest/index.html",
     "static/css/main.6c0c5e30.chunk.css.map": "https://www.ruvvet.com/iqtest/static/css/main.6c0c5e30.chunk.css.map",
-    "static/js/2.6fe7f004.chunk.js.LICENSE.txt": "https://www.ruvvet.com/iqtest/static/js/2.6fe7f004.chunk.js.LICENSE.txt"
+    "static/js/2.2efbb4c0.chunk.js.LICENSE.txt": "https://www.ruvvet.com/iqtest/static/js/2.2efbb4c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.917e40a2.js",
-    "static/js/2.6fe7f004.chunk.js",
+    "static/js/2.2efbb4c0.chunk.js",
     "static/css/main.6c0c5e30.chunk.css",
-    "static/js/main.cfa16150.chunk.js"
+    "static/js/main.09451fa3.chunk.js"
   ]
 }
