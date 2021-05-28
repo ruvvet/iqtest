@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://www.ruvvet.com/iqtest/static/css/main.6c0c5e30.chunk.css",
-    "main.js": "https://www.ruvvet.com/iqtest/static/js/main.aa9a4d0e.chunk.js",
-    "main.js.map": "https://www.ruvvet.com/iqtest/static/js/main.aa9a4d0e.chunk.js.map",
+    "main.js": "https://www.ruvvet.com/iqtest/static/js/main.336f3b14.chunk.js",
+    "main.js.map": "https://www.ruvvet.com/iqtest/static/js/main.336f3b14.chunk.js.map",
     "runtime-main.js": "https://www.ruvvet.com/iqtest/static/js/runtime-main.c5494c64.js",
     "runtime-main.js.map": "https://www.ruvvet.com/iqtest/static/js/runtime-main.c5494c64.js.map",
     "static/js/2.46b45888.chunk.js": "https://www.ruvvet.com/iqtest/static/js/2.46b45888.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c5494c64.js",
     "static/js/2.46b45888.chunk.js",
     "static/css/main.6c0c5e30.chunk.css",
-    "static/js/main.aa9a4d0e.chunk.js"
+    "static/js/main.336f3b14.chunk.js"
   ]
 }
